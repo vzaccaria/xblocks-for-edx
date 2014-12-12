@@ -1,0 +1,9 @@
+/* CSS for XBlockOctave */
+
+.octave_block .count {
+    font-weight: bold;
+}
+
+.octave_block p {
+    cursor: pointer;
+}
